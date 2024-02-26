@@ -18,7 +18,15 @@ export default function Page() {
         <Link href="/week-4" className="text-blue-500 hover:text-green-500 transition duration-500">
           Assignments week-4
         </Link>
-      </div>
+        </div>
+        <div className="flex justify-center items-center">
+        <Link href="/week-5" 
+        className="text-blue-500 hover:text-green-500 transition duration-500">
+          Assignments week-5
+        </Link>
+        </div>
+        
+      
     </main>
   );
 }
