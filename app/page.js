@@ -37,7 +37,12 @@ export default function Page() {
           Assignments week-7
         </Link>
         </div>
-      
+        <div className="flex justify-center items-center">
+        <Link href="/week-8" 
+        className="text-blue-500 hover:text-green-500 transition duration-500">
+          Assignments week-8
+        </Link>
+        </div>
     </main>
   );
 }
